@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Xin chào, tôi là Nguyễn Nhi, sinh viên trường Đại học NAM CẦN THƠ.
+Tôi yêu thích công nghệ và luôn muốn học hỏi những kỹ năng mới.
+Tôi thích làm việc nhóm và khuyến khích ý tưởng sáng tạo.
+Tôi mong muốn trở thành một lập trình viên chuyên nghiệp trong tương lai.
+Git là công cụ giúp tôi quản lý mã nguồn hiệu quả hơn.
+
+Sở thích:
+- Đọc sách
+- Chơi game
+- Thể thao
+
+Kỹ năng:
+- Sử dụng Git và GitHub
+- Thiết kế giao diện web cơ bản
+- Làm việc nhóm hiệu quả
