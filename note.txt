@@ -1,2 +1,3 @@
-- Tôi học được cách xử lý lỗi và khôi phục dữ liệu qua các lệnh Git.
-- Git giúp tôi tự tin hơn khi làm việc nhóm trên cùng dự án.
+- Git giúp tôi hiểu cách quản lý phiên bản dễ dàng hơn.
+- Việc commit giúp lưu lại tiến độ học tập từng bước.
+- GitHub giúp tôi chia sẻ và cộng tác với bạn bè thuận tiện hơn.
